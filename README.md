@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine Learning
 **NMIST digit recognition** *(Deep Learning Neural Network w/TensorFlow, Keras)*<br/>
 Dataset: https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist <br/>
 Loss: 0.09766 <br/>
