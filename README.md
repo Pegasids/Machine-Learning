@@ -8,7 +8,7 @@ Sample *(Output=7)*: <br/>
 <img src="./MNIST_digit_recognition/sample_img.PNG" alt="sample drawing" width="350"/> <br/>
 <br/>
 <br/>
-**Student Grade Prediction** *(Linear Regression w/scikit-learn, Panadas)* <br/>
+**Student Grade Prediction** *(Linear Regression w/scikit-learn, Pandas)* <br/>
 Dataset: https://archive.ics.uci.edu/ml/datasets/Student+Performance <br/>
 Accuracy: 0.8001768485127041 <br/>
 Attributes *(coef)*: G1 *(0.1710371)*, G2 *(0.96936126)*, studytime *(-0.15492462)*, failures *(-0.3091488)*, absences *(0.03786174)* <br/>
