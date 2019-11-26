@@ -43,3 +43,10 @@ lug_boot: small, med, big. <br/>
 safety: low, med, high. <br/>
 <br/>
 <br/>
+
+**Tumor Classification** *(Support Vector Machine w/scikit-learn, Pandas)* <br/>
+Dataset: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html <br/>
+Accuracy: 0.9736842105263158 <br/>
+Goal: Classifiy whether a breast tumor is benign or malignant.<br/>
+<br/>
+<br/>
