@@ -25,3 +25,9 @@ Intercept: -1.6234064847677985 <br/>
 
 <br/>
 <br/>
+
+**Car Safety Evaluation** *(KNN Classifier w/scikit-learn, Pandas)* <br/>
+Dataset: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation <br/>
+Accuracy: 0.953757225433526 <br/>
+<br/>
+<br/>
