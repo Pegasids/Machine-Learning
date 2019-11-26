@@ -1,5 +1,5 @@
 # Machine-Learning
-NMIST digit recognition <br/>
+NMIST digit recognition (Deep Learning Neural Network w/TensorFlow, Keras)<br/>
 loss=0.09766 accuracy=0.9677 <br/>
 <br/>
 Sample: <br/>
