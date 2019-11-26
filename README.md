@@ -4,9 +4,8 @@ Dataset: https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist <br/
 Loss: 0.09766 <br/>
 Accuracy: 0.9677 <br/>
 <br/>
-Sample: <br/>
+Sample (Output=7): <br/>
 <img src="./MNIST_digit_recognition/sample_img.PNG" alt="sample drawing" width="350"/> <br/>
-Output=7 <br/>
 <br/>
 <br/>
 **Student Grade Prediction** *(Linear Regression w/scikit-learn)* <br/>
