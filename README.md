@@ -30,4 +30,16 @@ Intercept: -1.6234064847677985 <br/>
 Dataset: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation <br/>
 Accuracy: 0.953757225433526 <br/>
 <br/>
+Attribute Information: <br/>
+Class Values: <br/>
+unacc, acc, good, vgood <br/>
+<br/>
+Attributes: <br/>
+buying: vhigh, high, med, low. <br/>
+maint: vhigh, high, med, low. <br/>
+doors: 2, 3, 4, 5more. <br/>
+persons: 2, 4, more. <br/>
+lug_boot: small, med, big. <br/>
+safety: low, med, high. <br/>
+<br/>
 <br/>
